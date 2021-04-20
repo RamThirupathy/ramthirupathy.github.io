@@ -1,4 +1,4 @@
-name: Jekyll site CI
+name: Auto build using jekyll
 
 on:
   push:
