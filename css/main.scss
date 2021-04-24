@@ -29,9 +29,3 @@ $on-laptop:        800px;
         @content;
     }
 }
-
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
