@@ -6,5 +6,5 @@ categories: commands
 ---
 | Syntax      | Description |
 | ----------- | ----------- |
-| CTRL + L    | Clear the content in page |
-| CTRL + C    | Stop the program          |
+| <span style="color:blue">CTRL + L</span>     | Clear the content in page |
+| <span style="color:blue">CTRL + C</span>    | Stop the program          |
