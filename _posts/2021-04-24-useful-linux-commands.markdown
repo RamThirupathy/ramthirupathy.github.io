@@ -6,5 +6,9 @@ categories: commands
 ---
 | Syntax      | Description |
 | ----------- | ----------- |
-| <span style="color:blue">CTRL + L</span>     | Clear the content in page |
-| <span style="color:blue">CTRL + C</span>    | Stop the program          |
+| <span style="color:blue">CTRL + L</span>    | Clear the content in page                  |
+| <span style="color:blue">CTRL + C</span>    | Stop the program                           |
+| <span style="color:blue">CTRL + U</span>    | Delete the line before the cursor          |
+| <span style="color:blue">CTRL + K</span>    | Delete the line after the cursor           |
+| <span style="color:blue">CTRL + W</span>    | Delete the word before the cursor          |
+| <span style="color:blue">ALT + D</span>     | Delete the word after the cursor           |
