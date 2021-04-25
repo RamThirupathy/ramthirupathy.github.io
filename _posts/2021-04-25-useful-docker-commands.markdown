@@ -8,5 +8,5 @@ categories: commands
 | ----------- | ----------- |
 | <span style="color:blue">docker images</span>                               | List all images                                              |
 | <span style="color:blue">docker ps</span>                                   | List all containers                                          |
-| <span style="color:blue">docker pull <image url></span>                     | Download an image from docker repository                     |
-| <span style="color:blue">docker history <image id></span>                   | Show all the layers and its details of an image              |
+| <span style="color:blue">docker pull {image url}</span>                     | Download an image from docker repository                     |
+| <span style="color:blue">docker history {image id}</span>                   | Show all the layers and its details of an image              |
